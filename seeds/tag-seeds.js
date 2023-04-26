@@ -1,4 +1,4 @@
-const { Tag } = require('../models');
+const { Tag } = require('../E-commerce_back_end/models');
 
 const tagData = [
   {
